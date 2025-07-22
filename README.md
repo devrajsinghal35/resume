@@ -1,2 +1,3 @@
 # resume
-my-resume
+
+I am a motivated Cyber Security and Digital Forensics student at VIT Bhopal University with hands-on experience in web development and cybersecurity internships. Skilled in C, C++, Python, JavaScript, and web technologies, I have developed practical projects like a Feistel Cipher simulation and a machine learning-based phishing site detector. My certifications in MATLAB, AI/ML, and Python, along with my Google Summer of Code 2024 contribution, reflect my commitment to growth. Through coding challenges, hackathons, and club leadership, I demonstrate teamwork, adaptability, and a passion for tackling new cybersecurity challenges.
